@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import classes from './Mainheader.modules.css';
+import classes from './MainHeader.module.css';
 
 const MainHeader = () => {
   return (
